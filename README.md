@@ -1,13 +1,23 @@
 ### Ünal Tüzün
-**Founder & Chief Engineer · GODBRAIN Co.** · İstanbul, Türkiye
+**Founder & Chief Engineer · GODBRAIN** · İstanbul, Türkiye
 
-Hardware ↔ AI ↔ security · Building [AVALON-PAUT](https://github.com/unaltuzun/AVALON-PAUT-overview) — handheld 32-channel phased-array ultrasonic inspection instrument · civilian NDT → MIL-STD → space-grade.
+Building **sovereign wave-physics + edge-AI hardware** — the layer that doesn't commoditize.
+
+First product: **[AVALON](https://github.com/unaltuzun/AVALON-PAUT-overview)** — a
+**64-channel phased-array ultrasonic inspection platform** for safety-critical
+industries: **energy & nuclear · power turbines · aerospace & space · automotive & EV
+· semiconductors · heavy industry.**
+
+Mixed-signal silicon · ±100 V analog front-ends · GPU edge-compute · in-house DSP & AI defect analysis.
+
+#### Focus
+Phased-array ultrasonics (PAUT / TFM / FMC) · mixed-signal & high-voltage design · edge-AI inference · neuromorphic R&D
 
 #### Languages
 Assembly (ARM Cortex-M, x86_64) · C · C++ · Rust · Python · Verilog
 
 #### Stack
-KiCad 24-layer rigid-flex · STM32 + ESP32 + Lattice FPGA · bare-metal + RTOS · production AI/ML · CEH security
+KiCad multilayer · STM32 + ESP32-S3 + NVIDIA Jetson · BGA mixed-signal front-ends · bare-metal + RTOS · production AI/ML
 
 #### Contact
 `ceo@godbrain.org` · <https://godbrain.org>
