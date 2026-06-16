@@ -17,7 +17,7 @@ Phased-array ultrasonics (PAUT / TFM / FMC) · mixed-signal & high-voltage desig
 Assembly (ARM Cortex-M, x86_64) · C · C++ · Rust · Python · Verilog
 
 #### Stack
-KiCad multilayer · STM32 + ESP32-S3 + NVIDIA Jetson · BGA mixed-signal front-ends · bare-metal + RTOS · production AI/ML
+KiCad multilayer · STM32 + ESP32-S3 + NVIDIA Jetson · BGA mixed-signal front-ends · bare-metal + RTOS · production AI/ML · CEH · offensive security
 
 #### Contact
 `ceo@godbrain.org` · <https://godbrain.org>
