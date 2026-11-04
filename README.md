@@ -4,7 +4,7 @@
 Building **sovereign wave-physics + edge-AI hardware** — the layer that doesn't commoditize.
 
 First product: **[AVALON](https://github.com/unaltuzun/AVALON-PAUT-overview)** — a
-**64-channel phased-array ultrasonic inspection platform** for safety-critical
+**phased-array ultrasonic inspection platform** (32-channel first build, 64-channel target) for safety-critical
 industries: **energy & nuclear · power turbines · aerospace & space · automotive & EV
 · semiconductors · heavy industry.**
 
