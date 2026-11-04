@@ -20,4 +20,4 @@ Assembly (ARM Cortex-M, x86_64) · C · C++ · Rust · Python · Verilog
 KiCad multilayer · STM32 + ESP32-S3 + NVIDIA Jetson · BGA mixed-signal front-ends · bare-metal + RTOS · production AI/ML · CEH · offensive security
 
 #### Contact
-`ceo@godbrain.org` · <https://godbrain.org>
+`founder@godbrain.io` · <https://godbrain.io>
